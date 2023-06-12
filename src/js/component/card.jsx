@@ -5,7 +5,7 @@ export const Card = () => {
         <div className="col">
         <div className="row">
   <div className="col-lg-6">
-    <div className="card">
+    <div className="card mb-3">
       <div className="card-body">
       <img class="card-img-top" src="https://via.placeholder.com/500x325" alt="Card image cap"/>
         <p className="card-text">
